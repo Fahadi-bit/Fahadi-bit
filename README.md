@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahadi-bit
 - 👀 I’m interested in data science, ML, software engineering.
-- 🌱 I’m currently learning Python, C++, Mathematics
+- 🌱 I’m currently learning Python, C++, Java, Mathematics, Statistics
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - fkkhan@live.co.uk
 
